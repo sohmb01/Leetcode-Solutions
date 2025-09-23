@@ -1,8 +1,8 @@
 /**
  * Leetcode Solution for: Unknown
  * Difficulty: Unknown
- * URL: https://leetcode.com/problems/third-maximum-number/submissions/
- * Submitted: 2025-09-23T18:35:25.236Z
+ * URL: https://leetcode.com/problems/third-maximum-number/submissions/1780453128/
+ * Submitted: 2025-09-23T18:35:26.268Z
  */
 
 class Solution:
