@@ -2,7 +2,7 @@
  * Leetcode Solution for: 605. Can Place Flowers
  * Difficulty: Easy
  * URL: https://leetcode.com/problems/can-place-flowers/submissions/1780572625/
- * Submitted: 2025-09-23T19:28:03.597Z
+ * Submitted: 2025-09-23T19:27:45.088Z
  */
 
 class Solution:
