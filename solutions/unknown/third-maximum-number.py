@@ -1,8 +1,8 @@
 /**
- * Leetcode Solution for: Unknown
+ * Leetcode Solution for: Overview
  * Difficulty: Unknown
  * URL: https://leetcode.com/problems/third-maximum-number/editorial/
- * Submitted: 2025-09-23T18:26:39.789Z
+ * Submitted: 2025-09-23T18:26:40.761Z
  */
 
 class Solution:
