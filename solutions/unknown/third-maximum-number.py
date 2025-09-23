@@ -1,15 +1,13 @@
 /**
- * Leetcode Solution for: Overview
+ * Leetcode Solution for: Unknown
  * Difficulty: Unknown
- * URL: https://leetcode.com/problems/third-maximum-number/solutions/
- * Submitted: 2025-09-23T18:26:47.211Z
+ * URL: https://leetcode.com/problems/third-maximum-number/submissions/
+ * Submitted: 2025-09-23T18:35:25.236Z
  */
 
 class Solution:
-    def thirdMax(self, nums: List[int]) 
--> int:
-        f,s,t=-999999999999999,
--999999999999999,-999999999999999
+    def thirdMax(self, nums: List[int]) -> int:
+        f,s,t=-999999999999999,-999999999999999,-999999999999999
         for i in nums:
             if i>f:
                 s,t=f,s
@@ -20,3 +18,7 @@ class Solution:
                 continue
             if i>t and i!=s and i!=f:
                 t=i
+        if t==-999999999999999:
+            return f
+        else:
+            return t
