@@ -2,7 +2,7 @@
  * Leetcode Solution for: 374. Guess Number Higher or Lower
  * Difficulty: Easy
  * URL: https://leetcode.com/problems/guess-number-higher-or-lower/description/
- * Submitted: 2025-09-23T18:45:44.517Z
+ * Submitted: 2025-09-23T18:45:46.517Z
  */
 
 # @return -1 if num is higher than the picked number
