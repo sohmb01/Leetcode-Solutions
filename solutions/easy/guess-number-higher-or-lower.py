@@ -1,8 +1,8 @@
 /**
  * Leetcode Solution for: 374. Guess Number Higher or Lower
  * Difficulty: Easy
- * URL: https://leetcode.com/problems/guess-number-higher-or-lower/submissions/1780535041/
- * Submitted: 2025-09-23T18:43:17.252Z
+ * URL: https://leetcode.com/problems/guess-number-higher-or-lower/description/
+ * Submitted: 2025-09-23T18:43:18.514Z
  */
 
 # @return -1 if num is higher than the picked number
