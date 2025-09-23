@@ -2,23 +2,7 @@
  * Leetcode Solution for: Unknown
  * Difficulty: Unknown
  * URL: https://leetcode.com/problems/third-maximum-number/submissions/1780453128/
- * Submitted: 2025-09-23T18:35:26.268Z
+ * Submitted: 2025-09-23T18:35:27.633Z
  */
 
-class Solution:
-    def thirdMax(self, nums: List[int]) -> int:
-        f,s,t=-999999999999999,-999999999999999,-999999999999999
-        for i in nums:
-            if i>f:
-                s,t=f,s
-                f=i
-                continue
-            if i>s and i!=f:
-                s,t=i,s
-                continue
-            if i>t and i!=s and i!=f:
-                t=i
-        if t==-999999999999999:
-            return f
-        else:
-            return t
+c
