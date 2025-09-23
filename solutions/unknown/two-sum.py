@@ -2,7 +2,7 @@
  * Leetcode Solution for: Overview
  * Difficulty: Unknown
  * URL: https://leetcode.com/problems/two-sum/description/
- * Submitted: 2025-09-23T18:26:47.676Z
+ * Submitted: 2025-09-23T18:26:47.835Z
  */
 
 class Solution:
