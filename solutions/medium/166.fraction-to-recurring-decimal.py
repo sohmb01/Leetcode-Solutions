@@ -1,8 +1,8 @@
 /**
  * Leetcode Solution for: 166. Fraction to Recurring Decimal
  * Difficulty: Medium
- * URL: https://leetcode.com/problems/fraction-to-recurring-decimal/description/?envType=daily-question&envId=2025-09-24
- * Submitted: 2025-09-24T14:28:50.908Z
+ * URL: https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/1781322472/?envType=daily-question&envId=2025-09-24
+ * Submitted: 2025-09-24T14:29:53.657Z
  */
 
 class Solution:
