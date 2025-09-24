@@ -2,7 +2,7 @@
  * Leetcode Solution for: 166. Fraction to Recurring Decimal
  * Difficulty: Medium
  * URL: https://leetcode.com/problems/fraction-to-recurring-decimal/description/?envType=daily-question&envId=2025-09-24
- * Submitted: 2025-09-24T14:28:50.626Z
+ * Submitted: 2025-09-24T14:28:50.908Z
  */
 
 class Solution:
