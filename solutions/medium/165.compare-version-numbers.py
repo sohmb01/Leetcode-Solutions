@@ -1,8 +1,8 @@
 /**
  * Leetcode Solution for: 165. Compare Version Numbers
  * Difficulty: Medium
- * URL: https://leetcode.com/problems/compare-version-numbers/submissions/
- * Submitted: 2025-09-24T15:20:15.064Z
+ * URL: https://leetcode.com/problems/compare-version-numbers/submissions/1780388963/
+ * Submitted: 2025-09-24T15:20:15.887Z
  */
 
 class Solution:
